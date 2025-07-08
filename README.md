@@ -1,7 +1,7 @@
-# Generate-Test-Plan-Test-Cases-and-Test-Strategy-and-Test-Data-using-AI.
+# Generate-Test-Plan-Test-Cases-and-Test-Strategy-and-Test-Data-using-AI( Gemini , CharGPT and Claude) 
 
 
-Attached the PDF that have all screenhots and prompts that I have entered for generating test plan , test cases, stretegy and test data for the below sample High Level E-commerce Requirement : 
+Attached the PDF and videos that have all screenhots and prompts that I have entered for generating test plan , test cases, strategy and test data for the below sample High Level E-commerce Requirement : 
 
 Project high level Requirements:
 
